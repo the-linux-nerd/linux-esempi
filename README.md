@@ -7,6 +7,8 @@ delle pull request per suggerirmi di integrare le loro migliorie nel mio reposit
 Grazie a questo repository possiamo collaborare tutti insieme e imparare tante cose nuove,
 quindi mi raccomando... clonate e collaborate!
 
-Ci vediamo sul mio canale https://www.youtube.com/@the-linux-nerd :)
+Ci vediamo sul mio canale https://www.youtube.com/@the-linux-nerd e mi raccomando non dimenticatevi
+anche del mio sito https://www.thelinuxnerd.it e ovviamente anche su gopher://gopher.thelinuxnerd.it
 
-
+Per chattare con me ci vediamo su IRC nel canale #the-linux-nerd su ircs://irc.libera.chat:6697
+come negli anni novanta :D
